@@ -19,3 +19,5 @@ The URL "amqp://guest:guest@localhost:5672" is used in both the publisher and su
 This is a fundamental aspect of the publish-subscribe pattern - both sides connect to a common intermediary (the message broker) rather than directly to each other. The broker handles message routing, storage, and delivery between publishers and subscribers.
 
 ![image](https://github.com/user-attachments/assets/ae6f6fe0-46f1-4958-ad9b-49cbab530018)
+
+,,,,,
