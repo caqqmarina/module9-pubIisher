@@ -1,0 +1,10 @@
+/mnt/c/Users/caqma/.vscode/adpro/tut8-pubIisher/publisher/target/debug/deps/libicu_normalizer-2273f9266a309529.rmeta: /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs
+
+/mnt/c/Users/caqma/.vscode/adpro/tut8-pubIisher/publisher/target/debug/deps/libicu_normalizer-2273f9266a309529.rlib: /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs
+
+/mnt/c/Users/caqma/.vscode/adpro/tut8-pubIisher/publisher/target/debug/deps/icu_normalizer-2273f9266a309529.d: /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs
+
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs:

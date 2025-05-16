@@ -1,0 +1,10 @@
+/mnt/c/Users/caqma/.vscode/adpro/tut8-pubIisher/publisher/target/debug/deps/libzerovec_derive-c00cc6a7f997d440.so: /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/lib.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/make_ule.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/make_varule.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/ule.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/utils.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/varule.rs
+
+/mnt/c/Users/caqma/.vscode/adpro/tut8-pubIisher/publisher/target/debug/deps/zerovec_derive-c00cc6a7f997d440.d: /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/lib.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/make_ule.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/make_varule.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/ule.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/utils.rs /home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/varule.rs
+
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/lib.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/make_ule.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/make_varule.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/ule.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/utils.rs:
+/home/caqmarina/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.11.1/src/varule.rs:
